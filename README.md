@@ -1,4 +1,4 @@
-# Utkarsh Rana — Creative Frontend Developer
+# Utkarsh Rana — Frontend Developer & Marketer
 
 Welcome to my personal portfolio website. This project showcases my skills in frontend development, interactive UI design, animations, and JavaScript-based experiences.
 
